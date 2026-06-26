@@ -1,0 +1,266 @@
+[
+    {
+        "name": "Burger Palace",
+        "address": "100 Culinary Lane, London, W1 1AA",
+        "items": [
+            {
+                "name": "Classic Burger",
+                "price": 8.99
+            },
+            {
+                "name": "Cheeseburger",
+                "price": 9.99
+            },
+            {
+                "name": "Double Smash Burger",
+                "price": 12.49
+            },
+            {
+                "name": "French Fries",
+                "price": 3.49
+            }
+        ]
+    },
+    {
+        "name": "Smash Bros Delivery",
+        "address": "100 Culinary Lane, London, W1 1AA",
+        "items": [
+            {
+                "name": "Classic Burger",
+                "price": 8.99
+            },
+            {
+                "name": "Cheeseburger",
+                "price": 9.99
+            },
+            {
+                "name": "Double Smash Burger",
+                "price": 12.49
+            },
+            {
+                "name": "French Fries",
+                "price": 3.49
+            }
+        ]
+    },
+    {
+        "name": "The Patty Shop",
+        "address": "100 Culinary Lane, London, W1 1AA",
+        "items": [
+            {
+                "name": "Classic Burger",
+                "price": 8.99
+            },
+            {
+                "name": "Cheeseburger",
+                "price": 9.99
+            },
+            {
+                "name": "Double Smash Burger",
+                "price": 12.49
+            },
+            {
+                "name": "French Fries",
+                "price": 3.49
+            }
+        ]
+    },
+    {
+        "name": "Tokyo Bites",
+        "address": "100 Culinary Lane, London, W1 1AA",
+        "items": [
+            {
+                "name": "Salmon Avocado Roll",
+                "price": 6.5
+            },
+            {
+                "name": "Spicy Tuna Roll",
+                "price": 7.0
+            },
+            {
+                "name": "Assorted Sashimi Platter",
+                "price": 14.99
+            },
+            {
+                "name": "Edamame",
+                "price": 3.5
+            }
+        ]
+    },
+    {
+        "name": "Pizza Hub",
+        "address": "250 High Street, London, E1 7BB",
+        "items": [
+            {
+                "name": "Margherita Pizza",
+                "price": 10.99
+            },
+            {
+                "name": "Pepperoni Pizza",
+                "price": 12.99
+            },
+            {
+                "name": "Vegetarian Supreme",
+                "price": 13.5
+            },
+            {
+                "name": "Garlic Bread",
+                "price": 4.5
+            }
+        ]
+    },
+    {
+        "name": "Slice of Italy",
+        "address": "250 High Street, London, E1 7BB",
+        "items": [
+            {
+                "name": "Margherita Pizza",
+                "price": 10.99
+            },
+            {
+                "name": "Pepperoni Pizza",
+                "price": 12.99
+            },
+            {
+                "name": "Vegetarian Supreme",
+                "price": 13.5
+            },
+            {
+                "name": "Garlic Bread",
+                "price": 4.5
+            }
+        ]
+    },
+    {
+        "name": "Curry Express",
+        "address": "250 High Street, London, E1 7BB",
+        "items": [
+            {
+                "name": "Chicken Tikka Masala",
+                "price": 11.5
+            },
+            {
+                "name": "Lamb Rogan Josh",
+                "price": 12.99
+            },
+            {
+                "name": "Garlic Naan",
+                "price": 2.99
+            },
+            {
+                "name": "Pilau Rice",
+                "price": 3.0
+            }
+        ]
+    },
+    {
+        "name": "Green Bowl",
+        "address": "88 Vegan Way, London, SW1 2EE",
+        "items": [
+            {
+                "name": "Chicken Caesar Salad",
+                "price": 8.5
+            },
+            {
+                "name": "Quinoa Power Bowl",
+                "price": 9.5
+            },
+            {
+                "name": "Avocado Toast",
+                "price": 6.99
+            },
+            {
+                "name": "Green Detox Smoothie",
+                "price": 4.5
+            }
+        ]
+    },
+    {
+        "name": "Healthy Eats Co.",
+        "address": "88 Vegan Way, London, SW1 2EE",
+        "items": [
+            {
+                "name": "Chicken Caesar Salad",
+                "price": 8.5
+            },
+            {
+                "name": "Quinoa Power Bowl",
+                "price": 9.5
+            },
+            {
+                "name": "Avocado Toast",
+                "price": 6.99
+            },
+            {
+                "name": "Green Detox Smoothie",
+                "price": 4.5
+            }
+        ]
+    },
+    {
+        "name": "Sushi Express Central",
+        "address": "50 Market Square, London, N1 9CC",
+        "items": [
+            {
+                "name": "Salmon Avocado Roll",
+                "price": 6.5
+            },
+            {
+                "name": "Spicy Tuna Roll",
+                "price": 7.0
+            },
+            {
+                "name": "Assorted Sashimi Platter",
+                "price": 14.99
+            },
+            {
+                "name": "Edamame",
+                "price": 3.5
+            }
+        ]
+    },
+    {
+        "name": "Spice Route Dining",
+        "address": "12 Spice Road, London, SE1 4DD",
+        "items": [
+            {
+                "name": "Chicken Tikka Masala",
+                "price": 11.5
+            },
+            {
+                "name": "Lamb Rogan Josh",
+                "price": 12.99
+            },
+            {
+                "name": "Garlic Naan",
+                "price": 2.99
+            },
+            {
+                "name": "Pilau Rice",
+                "price": 3.0
+            }
+        ]
+    },
+    {
+        "name": "Downtown Burgers",
+        "address": "77 King Street, London, WC2E 8HA",
+        "items": [
+            {
+                "name": "Classic Burger",
+                "price": 8.99
+            },
+            {
+                "name": "Cheeseburger",
+                "price": 9.99
+            },
+            {
+                "name": "Double Smash Burger",
+                "price": 12.49
+            },
+            {
+                "name": "French Fries",
+                "price": 3.49
+            }
+        ]
+    }
+]
