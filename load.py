@@ -1,0 +1,1 @@
+#reads json file and inserts rows into clickhouse using clickhouseconnect or request library cause it has a simple http api 
