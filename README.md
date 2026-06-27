@@ -1,4 +1,6 @@
-RUN THIS SO IT CAN RUN LOCALLY ON UR PC!
+## This is a project for the multiagent hackathon held by tokens&
 
-docker-compose up -d
-python load.py
+
+To run locally:
+- docker-compose up -d
+- python load.py
